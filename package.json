@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dreykhtman/simple-starter#readme",
   "devDependencies": {
-    "node-sass": "^6.0.0"
+    "node-sass": "^6.0.1"
   }
 }
